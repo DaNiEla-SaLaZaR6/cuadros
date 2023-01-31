@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.cajon{
+    height: 150px;
+    width: 250px;
+    display: flex;
+    background-color: rgba(0, 255, 255, 0.821);
+    border: solid 1px rgb(0, 204, 255);
+    font-style: inherit;
+    color: white;
+}
